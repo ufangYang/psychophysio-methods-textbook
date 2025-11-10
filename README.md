@@ -133,13 +133,10 @@ Guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Why It's Messy
 
-Traditional textbooks pretend to be complete and authoritative. Written once, published, frozen.
-
-This textbook admits imperfection. Sections need work. New research changes things. Students find better explanations than mine.
-
-**That's fine.** Actually, better. Science is messy. Learning is messy. Let's be honest.
-
-I refine chapters as I teach. Students catch my errors. The textbook improves each semester. Version 1.0 isn't the goal—continuous improvement is.
+Traditional textbooks pretend to be complete and authoritative. They're written once, published, frozen.
+This textbook admits imperfection. Some sections need work. New research will change things. Students will find better explanations than mine.
+**That's fine.**  Actually, that's better. Science is messy. Learning is messy. Let's be honest about it.
+I'm still refining chapters as I teach. Students catch errors I miss. The textbook improves each semester. Version 1.0 isn't the goal—continuous improvement is. :)
 
 ## My Teaching Philosophy
 
@@ -175,8 +172,8 @@ Yang, Y.-F. (2025). Psychophysiological methods in cognitive psychology:
 Share, adapt, remix—even commercially—as long as you:
 - Credit Dr. Yang and student contributors
 - Share your version under same license
-
-Knowledge stays open. See: [LICENSE.md](LICENSE.md)
+  
+*Cite with DOI*: This textbook is archived on Zenodo for permanent citation.
 
 ## Connect
 
