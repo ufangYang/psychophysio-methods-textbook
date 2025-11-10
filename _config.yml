@@ -1,4 +1,15 @@
 title: Psychophysiological Methods in Cognitive Psychology
-description: Open Educational Resource by Dr. Yang, Yu-Fang
-theme: jekyll-theme-tactile
-author: Dr. Yang, Yu-Fang
+description: Student-Centered Open Textbook by Dr. Yang, Yu-Fang
+theme: jekyll-theme-cayman #jekyll-theme-tactile
+
+# Better typography
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Custom styling
+show_downloads: false
+
+# Add custom CSS
+header_page_refs: false
