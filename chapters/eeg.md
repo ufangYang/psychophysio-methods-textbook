@@ -30,6 +30,11 @@ EEG activity is characterized by oscillations in distinct frequency bands (Klime
 
 **Gamma (30-100 Hz)** is associated with attention, consciousness, and binding of distributed neural representations. Evidence suggests gamma oscillations coordinate information across brain regions (Fries, 2009).
 
+![EEG frequency bands](images/eeg_frequency_bands.png)
+
+*Figure 2: EEG frequency bands. From course materials.*
+
+
 ## Recording Methods
 
 ### The 10-20 System
