@@ -184,7 +184,6 @@ Knowledge stays open. See: [LICENSE.md](LICENSE.md)
 
 **Want to contribute?** [Read the guide](CONTRIBUTING.md)
 
-**Email:** yu-fang.yang@fu-berlin.de (substantive questions only; use issues for typos)
 
 ## Thank You
 
@@ -207,5 +206,5 @@ Ready to understand how we measure electrical signals from brain, eyes, muscles,
 ---
 
 *Last updated: November 2025*  
-*Started: Winter 2021 | Made public: Winter 2024/25*  
+*Started: Winter 2024 | Made public: Winter 2025/26*  
 **This textbook is alive. It's not perfect. That's okay. Let's make it better together.**
