@@ -2,7 +2,8 @@
 
 **Open Educational Resource**
 
-Dr. Yang, Yu-Fang | Free University of Berlin
+**Author:** Dr. Yang, Yu-Fang  
+**Institution:** Free University of Berlin
 
 ## About
 
