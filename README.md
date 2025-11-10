@@ -124,7 +124,7 @@ Found an error? Better explanation? Missing reference? **Improve this.**
 5. Your name joins the contributors list
 
 **Bigger additions:**
-1. Open an [Issue](../../issues) describing your idea
+1. Open an [Issue](https://github.com/ufangYang/psychophysio-methods-textbook/issues) describing your idea
 2. We discuss if it fits
 3. You make changes
 4. Pull request → review → merge
