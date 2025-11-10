@@ -16,8 +16,8 @@ Designed for master's students and researchers learning these techniques.
 ## Chapters
 
 1. [Electroencephalography (EEG)](chapters/eeg.md)
-2. [Electrooculography (EOG)](chapters/eog.md) - Coming soon
-3. [Electromyography (EMG)](chapters/emg.md) - Coming soon
+2. [Electrooculography (EOG)](chapters/eog.md) 
+3. [Electromyography (EMG)](chapters/emg.md) 
 4. [Electrodermal Activity (EDA)](chapters/eda.md) - Coming soon
 5. [Electrocardiography (ECG)](chapters/ecg.md) - Coming soon
 6. [Electrogastrography (EGG)](chapters/egg.md) - Coming soon
