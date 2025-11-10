@@ -149,17 +149,6 @@ This textbook reflects that. You're not consuming information—you're building 
 
 German technical terms appear [in brackets] when genuinely helpful for students at a German university. Not everywhere, just where needed.
 
-## The Journey: 2021 → 2024 → Now
-
-**2021:** Started teaching five methods (EEG, EOG, EDA, EMG, ECG). Struggled to find one comprehensive textbook.
-
-**2024:** Added EGG because gut-brain connection matters for psychology and wellbeing. Decided to build this student-centered resource. First cohort of motivated students contributed.
-
-**Now (2024/25):** Made it public. Still refining as I teach. Students asking excellent questions. Finding papers I missed. Explaining things more clearly than I did.
-
-Rather than hoard this in lecture notes, we're building together. Every semester adds voices. The textbook gets richer.
-
-**You're joining an ongoing conversation**, not reading a finished product.
 
 ## Academic Integrity
 
@@ -219,6 +208,4 @@ Ready to understand how we measure electrical signals from brain, eyes, muscles,
 
 *Last updated: November 2025*  
 *Started: Winter 2021 | Made public: Winter 2024/25*  
-*Status: 🟢 Active development - 3 chapters complete, 3 in progress*
-
 **This textbook is alive. It's not perfect. That's okay. Let's make it better together.**
