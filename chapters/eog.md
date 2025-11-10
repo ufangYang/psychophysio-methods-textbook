@@ -176,6 +176,36 @@ Saccade detection algorithms identify rapid changes in eye position exceeding ve
 
 Statistical analysis must account for within-subject dependencies. Repeated measures from the same participant violate independence assumptions. Mixed-effects models properly handle hierarchical data structure (multiple trials per participant, multiple participants per condition). Corrections for multiple comparisons are necessary when analyzing time series data with many time points.
 
+
+## Glossary
+
+**Corneo-Retinal Potential** | *Korneo-Retinales Potenzial*  
+The charge difference between the cornea and retina, critical for detecting eye movements (Becker-Carus & Wendt, 2017).
+
+**Saccade** | *Sakkade*  
+A rapid movement of the eye between fixation points, enabling quick visual shifts (Rucci & Victor, 2015).
+
+**Fixation** | *Fixation*  
+Maintaining a steady gaze on a single location for detailed visual processing (Martinez-Conde et al., 2004).
+
+**Vergence Movement** | *Vergenz-Bewegung*  
+Adjusting eye alignment to maintain focus on objects at different depths (López et al., 2016).
+
+**Visual Angle** | *Blickwinkel*  
+The perceived size of an object on the retina, determined by its size and distance from the eye (Becker-Carus & Wendt, 2017).
+
+**Microsaccades** | *Mikrosakkaden*  
+Small, involuntary eye movements during fixation that prevent sensory fading (Rucci & Victor, 2015).
+
+**Pupil Dilation** | *Pupillenerweiterung*  
+Changes in pupil size, reflecting cognitive and emotional states (Becker-Carus & Wendt, 2017).
+
+**Eye Tracking** | *Eye Tracking*  
+A method using cameras to analyze gaze direction, fixation duration, and visual paths (López et al., 2016).
+
+**Corneal Reflex** | *Kornealreflex (Lidschlussreflex)*  
+A protective mechanism characterized by rapid closure of the eyelids in response to corneal stimulation.
+
 ## References
 
 Abo-Zahhad, M., Ahmed, S. M., & Abbas, S. N. (2015). A new EEG acquisition protocol for biometric identification using eye blinking signals. *International Journal of Intelligent Systems and Applications*, 7(6), 48-56.
