@@ -84,12 +84,12 @@ Muscle electrical activity. Motor control, fatigue, clinical diagnosis.
 ### 4. [Electrodermal Activity (EDA)](chapters/EDA.md)
 Skin conductance and emotional arousal.
 
-*In development*
 
-### 5. Electrocardiography (ECG)  
+
+### 5. [Electrocardiography (ECG)](chapters/ECG.md) 
 Heart activity and autonomic nervous system function.
 
-*In development*
+
 
 ### 6. Electrogastrography (EGG)
 Gut electrical activity. The second brain and wellbeing.
