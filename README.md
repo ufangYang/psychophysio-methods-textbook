@@ -81,7 +81,7 @@ Muscle electrical activity. Motor control, fatigue, clinical diagnosis.
 
 *Revised by: Ronnie Porterfield, Lara Bellu, Luna Heinrich, Benjamin Meersseman*
 
-### 4. Electrodermal Activity (EDA)
+### 4. [Electrodermal Activity (EDA)](chapters/EDA.md)
 Skin conductance and emotional arousal.
 
 *In development*
