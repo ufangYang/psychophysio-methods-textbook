@@ -3,7 +3,12 @@
 
 @import "{{ site.theme }}";
 
-/* Just hide the View on GitHub button if it appears */
+/* Hide the View on GitHub link in header */
+.view {
+  display: none !important;
+}
+
+/* Hide download buttons if they appear */
 .downloads {
   display: none !important;
 }
