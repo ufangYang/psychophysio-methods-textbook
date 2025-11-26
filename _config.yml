@@ -1,15 +1,10 @@
 title: Psychophysiological Methods in Cognitive Psychology
-description: Student-Centered Open Living Textbook
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
-
-# Enable search
-search_enabled: true
-
-# Aux links (top right)
-aux_links:
-  "GitHub Repository":
-    - "https://github.com/ufangYang/psychophysio-methods-textbook"
-
-# Footer
-footer_content: "CC BY-SA 4.0 | Dr. Yang, Yu-Fang and Students | Freie Universität Berlin"
+description: Student-Centered Open Living Textbook by Dr. Yang, Yu-Fang and Students 
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+show_downloads: false
+github:
+  is_project_page: false
