@@ -1,4 +1,7 @@
-# Electrocardiography (ECG)
+---
+title: Electroencephalography (EEG)
+nav_order: 1
+---
 
 *Chapter in development with course contributors*
 
