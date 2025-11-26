@@ -1,15 +1,8 @@
 title: Psychophysiological Methods in Cognitive Psychology
-description: Student-Centered Open Living Textbook by Dr. Yang, Yu-Fang and Stduents 
-theme: jekyll-theme-minimal  #tactile # jekyll-theme-cayman is green 
-
-# Better typography
+description: Student-Centered Open Living Textbook by Dr. Yang, Yu-Fang and Students 
+theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# Custom styling
 show_downloads: false
-
-# Add custom CSS
-header_page_refs: false
