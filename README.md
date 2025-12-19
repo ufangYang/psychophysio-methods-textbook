@@ -91,7 +91,7 @@ Heart activity and autonomic nervous system function.
 
 
 
-### 6. Electrogastrography (EGG)
+### 6.[Electrogastrography (EGG))](chapters/egg.md) 
 Gut electrical activity. The second brain and wellbeing.
 
 *In development*
